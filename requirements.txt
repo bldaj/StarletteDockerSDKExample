@@ -1,0 +1,16 @@
+certifi==2018.10.15
+chardet==3.0.4
+Click==7.0
+docker==3.5.1
+docker-pycreds==0.3.0
+h11==0.8.1
+httptools==0.0.11
+idna==2.7
+requests==2.20.1
+six==1.11.0
+starlette==0.9.0
+urllib3==1.24.1
+uvicorn==0.3.21
+uvloop==0.11.3
+websocket-client==0.54.0
+websockets==7.0
